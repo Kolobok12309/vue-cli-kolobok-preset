@@ -1,2 +1,2 @@
 # Usage
-`vue create --preset https://github.com/Kolobok12309/vue-cli-kolobok-preset`
+`vue create --preset https://github.com/Kolobok12309/vue-cli-kolobok-preset project-name`
